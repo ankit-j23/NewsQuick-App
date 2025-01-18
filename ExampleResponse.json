@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Jhon Duran: The story of Colombia striker's rise from Envigado to Aston Villa",
+            "description": "You speak to people instrumental in Aston Villa strikerJhon Duran's career and some common themes come up - a raw, supremely talented footballer, a family man - and somebody who needs to be guided.",
+            "url": "http://www.bbc.co.uk/sport/football/articles/cr4xwxvvypeo",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/867d/live/ce1c3790-7f7d-11ef-b266-c1a332524046.png",
+            "publishedAt": "2024-10-01T06:37:12.240884Z",
+            "content": "In January 2023, Villa boss Unai Emery made Duran his second signing, bringing the then teenager to the club for an initial £14.75m, plus a potential £3.3m in add-ons.\r\nPelzer said: \"[We weren't] nai… [+2903 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": null,
+            "title": "Football latest: Reaction to Bournemouth's win plus Champions League build-up",
+            "description": "Reaction to Bournemouth's win plus build-up as Arsenal, Manchester City and Celtic play in the Champions League.",
+            "url": "http://www.bbc.co.uk/sport/football/live/ce9j377jnlxt",
+            "urlToImage": "https://static.files.bbci.co.uk/ws/simorgh-assets/public/sport/images/metadata/poster-1024x576.png",
+            "publishedAt": "2024-10-01T06:22:14.365081Z",
+            "content": "Hello, folks. A brand new month is here and it's filled with loads of football as the nights begin to draw in - and an international break. \r\nLast night at the Vitality Stadium, Bournemouth comfortab… [+838 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Turron Davenport",
+            "title": "Titans QB Will Levis (shoulder) exits MNF game vs. Dolphins - ESPN",
+            "description": "Titans starting quarterback Will Levis suffered a right shoulder injury while diving for a first down in the first quarter of Tennessee's Monday Night Football game at Miami. He was replaced by backup Mason Rudolph.",
+            "url": "https://www.espn.com/nfl/story/_/id/41541147/titans-qb-levis-exits-mnf-game-vs-dolphins-shoulder-injury",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F1001%2Fr1394388_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-10-01T01:56:00Z",
+            "content": "MIAMI -- Titans starting quarterback Will Levis suffered a right shoulder injury while diving for a first down in the first quarter of Tennessee's \"Monday Night Football\" matchup against the Miami Do… [+1029 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Andrew Greif",
+            "title": "Tennessee Titans QB Will Levis injured during 'Monday Night Football' game against Dolphins",
+            "description": "Tennessee Titans starting quarterback Will Levis did not come out for his team’s third drive Monday, at Miami, after an apparent injury to his throwing shoulder.",
+            "url": "https://www.nbcnews.com/sports/nfl/tennessee-titans-qb-will-levis-injured-rcna173384",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2024-10/240930-will-levis-wm-517p-cf71bc.jpg",
+            "publishedAt": "2024-10-01T00:24:31Z",
+            "content": "Tennessee Titans starting quarterback Will Levis did not come out for his teams third drive Monday, at Miami, after an apparent injury to his throwing shoulder.\r\nLevis appeared to be hurt after divin… [+1134 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "Emily Baker, Elise Potaka, Lara Sonnenschein",
+            "title": "US authorities investigating whether budget airline Bonza's investors broke money laundering laws",
+            "description": "Investigators are examining why some money destined for a private investment firm's football teams instead went to Bonza. The airline collapsed barely a year after it launched.",
+            "url": "https://www.abc.net.au/news/2024-10-01/bonza-airline-investors-probed-by-authorities-money-laundering/104412908",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/25fb07ea4cc4f72c7e664f3dc88b2cdd?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+            "publishedAt": "2024-09-30T18:39:21Z",
+            "content": "The cash poured into failed Australian airline Bonza is being examined as part of a US investigation into money laundering.\r\nThe US Department of Justice is investigating whether private investment f… [+7575 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": null,
+            "title": "National Football League\n     <!----> \n        Five potential Cowboys picks to track at the NFL Draft Combine\n       \n      1 hour ago",
+            "description": null,
+            "url": "http://www.foxsports.com/stories/nfl/five-potential-cowboys-picks-to-track-at-the-nfl-draft-combine",
+            "urlToImage": null,
+            "publishedAt": "2024-02-29T18:37:22.5746516Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Unique Stats from the 2023 College Football Regular Season",
+            "description": "Numbers are an integral part of college football. Whether you're previewing games, ranking teams or picking an award winner, statistics help shape the story.…",
+            "url": "https://bleacherreport.com/articles/10100739-unique-stats-from-the-2023-college-football-regular-season",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1702319871/sdx1wjlqkcqz3anqfabp.jpg",
+            "publishedAt": "2023-12-12T12:00:00Z",
+            "content": "Zach Bolinger/Icon Sportswire via Getty Images\r\nSpeaking of Iowa...\r\nWhat makes the Hawkeyes' stellar defensive season even more impressive is how much the team desperately needed it.\r\nAmong the many… [+711 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
